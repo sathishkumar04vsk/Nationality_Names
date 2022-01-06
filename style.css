@@ -1,5 +1,6 @@
-.container{
+.container-fluid{
     height: 100vh;
+    background-image: url('uwp1833036.jpeg');
 }
 .navbar{
     background-color: rgb(107, 168, 159);

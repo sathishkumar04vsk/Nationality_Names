@@ -1,0 +1,95 @@
+.container{
+    height: 100vh;
+}
+.navbar{
+    background-color: rgb(107, 168, 159);
+    border-radius: 3px;
+    height: 70px;
+    font-size: 40px;
+    font-family: Georgia, serif;
+    font-weight: 10px;
+    text-shadow: -2px -2px 6px rgb(218, 160, 241),
+                  2px 2px 6px rgba(238, 239, 245, 0.829);
+    color: rgb(6, 22, 65);
+    box-shadow: -5px -5px 6px rgb(215, 215, 240),
+                 5px 5px 6px rgb(167, 200, 206);
+}
+
+#input{
+    margin-top: 100px;
+    margin-left: 380px;
+    height: 68px;
+    width: 300px;
+    align-content: center;
+    border-radius: 10px;
+    font-size: 25px;
+    box-shadow: -5px -5px 12px rgba(243, 180, 180, 0.667),
+                 5px  5px  12px #323236;
+}
+
+#button{
+    margin-top: 110px;
+    height: 48px;
+    margin-left: 30px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgb(221, 25, 25);
+}
+#button:hover{
+    background-color: rgb(60, 112, 8);
+}
+#button:active{
+    background-color: rgb(94, 238, 154);
+}
+.result{
+    margin-top: 50px;
+    display: flex;
+    gap: 50px;
+   
+    justify-content: center;
+    align-items: center;
+    
+}
+.card{
+    height: 100vh;
+    background-image: linear-gradient(to right top, #5280c5, #706db5, #85599e, #924480, #95315f);
+    width: 360px;
+    height: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-header{
+    background-image: linear-gradient(to right, #c17100, #aaae00, #12eb20);
+    font-size: 30px;
+    color: rgb(21, 26, 24);
+
+}
+.card-title{
+    color: rgb(255, 253, 253);
+}
+
+.footer{
+    height: 150px;
+    background-color: rgba(36, 36, 65, 0.979);
+    text-align: center;
+}
+.ptag{
+    color: rgb(176, 78, 7);
+    font-size: 20px;
+    text-align: justify;
+    padding: 5px;
+}
+.fa{
+    color:rgba(5, 205, 255, 0.74);
+
+}
+.fa1{
+    color: white;
+}
+i{
+    margin: 5px;
+}
+.fo{
+    text-align: center;
+    color: rgb(177, 78, 7);
+}

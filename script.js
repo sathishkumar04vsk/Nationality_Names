@@ -1,4 +1,4 @@
-var element=creatediv('div','container-sm');
+var element=creatediv('div','container-fluid');
 var row1=creatediv('div','row');
 var row2=creatediv('div','row result');
 
